@@ -1,8 +1,8 @@
-# Javascript cheatsheets
+# Javascript cheatsheet
 
 # Table of Contents
 
-- [Javascript cheatsheets](#javascript-cheatsheets)
+- [Javascript cheatsheet](#javascript-cheatsheet)
 - [Table of Contents](#table-of-contents)
     - [Les variables](#les-variables)
     - [Les types des variables](#les-types-des-variables)
